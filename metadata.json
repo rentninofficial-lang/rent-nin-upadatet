@@ -1,0 +1,8 @@
+{
+  "name": "RentNin",
+  "description": "Verified property rental portal across Bangladesh — rent flats, family homes, offices, and commercial spaces.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
